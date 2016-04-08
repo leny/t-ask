@@ -1,2 +1,5 @@
-# t-ask
-(t)ask, a runner for task-runners
+# (t)ask
+
+> (t)ask, a runner for task-runners
+
+* * *
